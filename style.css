@@ -65,16 +65,16 @@ section {
 }
 .movie-card {
     background-color: #fff;
-    margin: 0px;
+    margin-top: 20px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     text-align: center;
-    width: 300px;
+    width: 100%;
 }
 
 .movie-card img {
-    width: 100%;
+    width: 98%;
     height: 450px;
     object-fit: cover;
     margin-bottom: 20px;
