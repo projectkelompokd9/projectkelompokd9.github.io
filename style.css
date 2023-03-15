@@ -1,6 +1,6 @@
 * {
-	margin: 0;
-	padding: 0;
+	margin: 0px;
+	padding: 0px;
 	box-sizing: border-box;
 	font-family: Arial, sans-serif;
 }
@@ -65,7 +65,7 @@ section {
 }
 .movie-card {
     background-color: #fff;
-    margin: 20px;
+    margin: 0px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
